@@ -1,6 +1,8 @@
 # Sentiment Analysis in Torch Text
 Sentiment analysis is a classification task where each sample is assigned a positive or negative label.
 
+This repo contains the code for the this [blog](https://medium.com/@sonicboom8/sentiment-analysis-torchtext-55fb57b1fab8).
+
 ## Typical components of classification task in NLP
 1. Preprocessing and tokenization
 2. Generating vocabulary of unique tokens and converting words to indices
