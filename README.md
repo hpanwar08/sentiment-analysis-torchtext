@@ -15,6 +15,7 @@ This repo contains the code for the this [blog](https://medium.com/@sonicboom8/s
 Torchtext provide set of classes that are useful in NLP tasks. These classes takes care of first 5 points above with very minimal code.
 
 ## Prerequisites
+* Python 3.6
 * [Pytorch 0.4](http://pytorch.org/)
 * [TorchText 0.2.3](https://github.com/pytorch/text)
 * Understanding of GRU/LSTM [1]
